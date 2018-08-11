@@ -1,0 +1,22 @@
+# Intellij
+*.iml
+*.idea/
+
+# Gradle
+.gradle/
+build/
+
+# Gedit 
+*~
+
+# Vim 
+*.swp
+
+# Antlr
+*.tokens
+
+# Java (just in case)
+*.class
+
+# Meld
+*.orig
